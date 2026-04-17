@@ -1,4 +1,4 @@
-# 🔥 Hyperchaotic Finance System — Reproduction & Quantitative Analysis
+# 🔥 Hyperchaotic Financial System Modeling
 
 ## 🧭 Overview
 
