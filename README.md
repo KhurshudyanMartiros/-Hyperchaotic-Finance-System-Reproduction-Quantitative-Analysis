@@ -91,5 +91,4 @@ No original figures or text from the source paper are reproduced.
 
 ## 👤 Author
 
-Martiros Khurshudyan
-Physics | Machine Learning | Quantitative Finance
+Martiros Khurshudyan | Physics | Machine Learning | Quantitative Finance
